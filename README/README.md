@@ -3,22 +3,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="600">
   </a>
 
 <h3 align="center">Day 1: Pomodoro Timer ⏱️</h3>
 
   <p align="center">
     Pixel Art Style Pomodoro Timer built with HTML, CSS, and JavaScript.
-    <br />
-    <a href="https://github.com/yourusername/pomodoro-app"><strong>Explore the Code »</strong></a>
-    <br />
-    <br />
-    <a href="https://your-demo-video-link.com">View Demo</a>
-    ·
-    <a href="https://github.com/yourusername/pomodoro-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yourusername/pomodoro-app/issues">Request Feature</a>
   </p>
 </div>
 
